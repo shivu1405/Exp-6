@@ -1,5 +1,4 @@
-# Exp - 5 STUDENT ENROLLMENT SYSTEM
-
+# Exp - online exam
 # AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Student Entrollment System.
 # SRS (Procedure):
